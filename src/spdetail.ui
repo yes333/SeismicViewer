@@ -1,0 +1,35 @@
+<ui version="4.0" >
+ <class>TraceDetail</class>
+ <widget class="QDialog" name="TraceDetail" >
+  <property name="windowModality" >
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>429</width>
+    <height>373</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string/>
+  </property>
+  <property name="sizeGripEnabled" >
+   <bool>false</bool>
+  </property>
+  <property name="modal" >
+   <bool>false</bool>
+  </property>
+  <layout class="QGridLayout" >
+   <property name="sizeConstraint" >
+    <enum>QLayout::SetDefaultConstraint</enum>
+   </property>
+   <item row="0" column="0" >
+    <widget class="QTextBrowser" name="browser" />
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

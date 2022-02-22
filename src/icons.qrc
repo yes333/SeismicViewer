@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/axis_definition.png</file>
+        <file>img/backward.png</file>
+        <file>img/begin.png</file>
+        <file>img/change_position.png</file>
+        <file>img/change_speed.png</file>
+        <file>img/color_line_toggle.png</file>
+        <file>img/color_map_editor.png</file>
+        <file>img/color_map_toggle.png</file>
+        <file>img/data_detail.png</file>
+        <file>img/data_properties_map.png</file>
+        <file>img/end.png</file>
+        <file>img/forward.png</file>
+        <file>img/horizontal_grid.png</file>
+        <file>img/new_window.png</file>
+        <file>img/one_backward.png</file>
+        <file>img/one_forward.png</file>
+        <file>img/open_file.png</file>
+        <file>img/open_movie.png</file>
+        <file>img/plot_properties_editor.png</file>
+        <file>img/plot_settings.png</file>
+        <file>img/polarity_toggle.png</file>
+        <file>img/print_whole.png</file>
+        <file>img/stop.png</file>
+        <file>img/zoom.png</file>
+        <file>img/flip_horizontal.png</file>
+        <file>img/flip_vertical.png</file>
+    </qresource>
+</RCC>
